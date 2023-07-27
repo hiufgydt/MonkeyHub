@@ -4,5 +4,7 @@ if GameId == 994732206 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/hiufgydt/MonkeyHub/main/Blox_Fruit"))()
 elseif GameId == 2851381018 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/hiufgydt/MonkeyHub/main/Taxi_Boss"))()
+elseif GameId == 210851291 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/hiufgydt/MonkeyHub/main/build%20a%20boat"))()
 end
 
